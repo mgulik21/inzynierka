@@ -1,2 +1,4 @@
 inzynierka
 ==========
+
+kiedy zmiany??
